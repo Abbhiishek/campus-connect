@@ -1,0 +1,8 @@
+{
+    "name": "@repo/tailwind",
+    "version": "0.0.0",
+    "private": true,
+    "files": [
+        "tailwind.config.js"
+    ]
+}
