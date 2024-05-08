@@ -34,7 +34,6 @@ _Add screenshots of relevant screens_
 - [ ] I have added relevant screenshots in my PR
 - [ ] There are no UI/UX issues
 
-
 ### Documentation Update
 
 - [ ] This PR requires an update to the documentation at [docs.campusconnect.xyz](https://docs.keyshade.xyz)
