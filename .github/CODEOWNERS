@@ -1,0 +1,10 @@
+# https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+apps/admin @abbhiishek
+apps/faculty @ChandanP007
+apps/student @abbhiishek
+apps/landing @anjalig18
+apps/api @abbhiishek
+apps/auth @
+apps/notifier @Abbhiishek
+apps/app @ChandanP007 @Abbhiishek
