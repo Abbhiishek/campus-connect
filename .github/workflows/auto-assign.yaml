@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/github-script@v7
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.REPO_GITHUB_TOKEN }}
           script: |
             const comment = context.payload.comment;
             const issue = context.issue;
